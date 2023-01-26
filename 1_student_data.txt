@@ -1,0 +1,6 @@
+The student details are given below:
+Rohan		[53, 64, 73, 84, 90]		
+Vivek		[82, 72, 82, 52, 43]		
+Jay		[92, 64, 87, 59, 91]		
+Abhay		[73, 34, 64, 53, 32]		
+Maya		[62, 31, 90, 94, 95]		
